@@ -3,8 +3,8 @@
 - 👋 Hi, I’m @Alila-kevin
 - 👀 I’m interested in in web dev, system,ai others
 - 🌱 I’m currently learning c#,php,js,python
-- 💞️ I’m looking to collaborate on github
-- 📫 How to reach me alilakevin4@gmail.com
+- 💞️ I’m looking to collaborate on with anyone
+- 📫 How to reach me through mail: alilakevin4@gmail.com
 
 <!---
 Alila-kevin/Alila-kevin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
