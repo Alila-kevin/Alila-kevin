@@ -2,7 +2,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alila-kevin&hide_progress=true)
 - 👋 Hi, I’m @Alila-kevin
 - 👀 I’m interested in in web dev, system,ai others
-- 🌱 I’m currently learning c#,php,js,python
+- 🌱 I’m currently learning c#,php and js
 - 💞️ I’m looking to collaborate on with anyone
 - 📫 How to reach me through mail: alilakevin4@gmail.com
 
