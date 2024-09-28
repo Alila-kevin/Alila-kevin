@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Alila-kevin<br>👀 I’m interested in in web dev, system,ai others<br>🌱 I’m currently learning c#,php and js<br>💞️ I’m looking to collaborate on with anyone<br>📫 How to reach me through mail: alilakevin4@gmail.com
+👋 Hi, I’m @Alila-kevin<br>👀 I’m interested in in web dev, system,ai others<br>🌱 I’m currently learning python, c#,php and js<br>💞️ I’m looking to collaborate on with anyone<br>📫 How to reach me through mail: alilakevin4@gmail.com
 
 
 ## 🌐 Socials:
